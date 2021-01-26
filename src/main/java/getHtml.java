@@ -24,22 +24,8 @@ public class getHtml {
     }
     
     
-        
-        
-        
-        
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
     }
     
     
